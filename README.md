@@ -38,23 +38,6 @@ The application performs AI-based object detection, tracks objects using ByteTra
 - HTML
 - JavaScript
 
----
-
-## Project Structure
-
-```
-Industrial-Inspection-System/
-│
-├── app.py
-├── clipv8m_fp32.engine
-├── bytetrack_rh.yaml
-├── bytetrack_lh.yaml
-├── requirements.txt
-├── README.md
-└── static/
-```
-
----
 
 ## System Workflow
 
